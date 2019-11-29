@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PHPTravels]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Bookhotel(failed)">
+    <classes>
+      <class name="com.org.php.testscripts.HotelIdentifier">
+        <methods>
+          <include name="identifyFourStarHotel"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.org.php.testscripts.HotelIdentifier -->
+    </classes>
+  </test> <!-- Bookhotel(failed) -->
+</suite> <!-- Failed suite [PHPTravels] -->

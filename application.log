@@ -1,0 +1,300 @@
+2019-11-29 10:49:47,500  INFO [main] LogReports:32 - URL opened
+2019-11-29 10:49:47,563  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 10:54:30,504  INFO [main] LogReports:32 - URL opened
+2019-11-29 10:54:30,567  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:03:49,172  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:03:49,254  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:15:55,901  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:15:58,077  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:15:58,803  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 11:16:36,402  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:16:37,750  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:16:38,137  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 11:28:20,292  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:29:50,444  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:32:06,855  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:33:27,544  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:37:19,407  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:39:24,839  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:39:26,739  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:39:27,236  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 11:43:00,594  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:43:02,313  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:43:03,920  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 11:44:02,561  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:44:04,122  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:44:04,122  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 11:58:38,008  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:58:40,134  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:59:25,415  INFO [main] LogReports:32 - URL opened
+2019-11-29 11:59:27,631  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 11:59:28,883  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 12:00:51,151  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:00:52,859  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:00:54,740  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 12:03:11,425  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:03:12,942  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:05:37,053  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:05:38,918  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:07:54,910  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:07:56,915  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:10:49,041  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:10:50,537  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:12:33,065  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:12:34,819  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:20:02,943  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:20:05,119  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 12:49:18,536  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:50:15,748  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:51:27,136  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:54:03,475  INFO [main] LogReports:32 - URL opened
+2019-11-29 12:54:05,527  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:02:40,233  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:02:41,916  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:04:42,114  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:04:44,064  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:10:13,965  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:10:16,162  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:13:56,673  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:13:58,932  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:20:06,342  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:20:08,791  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:20:53,620  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:20:55,888  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:24:10,956  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:24:13,176  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:24:14,190  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 13:27:01,665  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:27:04,303  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:27:05,609  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 13:46:08,738  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:46:10,511  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:47:02,764  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:47:04,363  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:48:30,958  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:48:32,792  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:51:21,000  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:51:23,052  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:51:24,064  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 13:56:57,292  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:56:59,439  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:57:49,614  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:57:51,201  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 13:58:58,265  INFO [main] LogReports:32 - URL opened
+2019-11-29 13:58:59,993  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:00:00,865  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:00:02,535  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:01:31,999  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:01:33,752  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:01:34,719  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:02:39,507  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:02:41,106  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:02:42,094  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:12:04,550  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:12:06,224  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:12:07,201  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:13:38,843  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:13:41,043  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:13:42,334  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:16:22,270  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:16:24,369  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:16:25,448  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:21:11,073  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:22:00,221  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:23:03,581  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:24:26,563  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:24:28,377  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:24:29,392  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:37:52,868  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:37:54,742  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:37:55,889  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:40:28,934  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:40:30,694  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:40:31,610  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 14:42:30,382  INFO [main] LogReports:32 - URL opened
+2019-11-29 14:42:32,379  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 14:42:33,241  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:35:16,508  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:35:18,177  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:35:19,464  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:37:28,036  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:37:29,635  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:37:30,561  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:38:20,187  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:38:21,985  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:38:23,507  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:39:40,062  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:39:42,043  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:39:42,965  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:42:56,782  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:42:58,347  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:42:59,250  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 15:46:15,552  INFO [main] LogReports:32 - URL opened
+2019-11-29 15:46:17,281  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 15:46:18,174  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:02:30,252  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:02:32,364  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:02:33,307  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:05:52,738  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:05:54,397  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:05:55,306  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:06:46,601  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:06:48,402  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:06:49,491  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:08:06,631  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:08:08,649  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:08:09,519  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:08:58,290  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:09:00,069  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:09:00,967  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:12:06,282  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:12:08,126  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:12:09,146  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:13:07,790  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:13:09,515  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:13:10,440  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:17:13,615  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:17:47,919  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:22:37,126  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:22:38,773  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:22:40,015  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:24:27,273  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:24:29,048  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:24:29,969  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:26:32,388  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:26:33,951  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:27:12,304  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:27:13,834  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:27:14,689  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:33:37,296  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:33:39,178  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:33:40,179  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:34:34,423  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:34:36,180  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:34:37,229  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:35:16,829  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:35:18,709  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:35:19,693  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:36:43,367  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:36:44,983  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:36:45,998  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:39:22,799  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:39:24,927  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:39:25,842  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:41:15,678  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:41:17,268  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:41:18,204  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:42:10,594  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:42:12,606  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:42:13,714  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:47:43,888  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:47:45,705  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:47:46,670  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:48:50,715  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:48:53,487  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:48:54,596  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:50:05,912  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:50:07,610  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:50:08,479  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:52:11,897  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:52:13,475  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:52:14,495  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 16:53:25,913  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:53:27,565  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:55:00,310  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:55:02,071  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:56:23,822  INFO [main] LogReports:32 - URL opened
+2019-11-29 16:56:25,676  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 16:56:26,894  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:00:09,789  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:00:11,591  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:00:12,542  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:05:09,868  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:05:11,995  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:05:13,260  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:11:13,345  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:11:15,074  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:11:16,089  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:14:08,482  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:14:10,520  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:15:05,289  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:15:06,916  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:15:07,820  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:18:26,860  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:18:28,797  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:18:29,949  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:19:36,004  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:19:38,081  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:19:39,048  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:21:12,382  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:21:14,553  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:21:15,526  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:22:16,251  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:22:18,562  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:22:19,489  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:31:31,837  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:31:33,627  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:32:44,833  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:32:46,785  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:32:47,684  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:34:03,352  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:34:04,952  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:34:05,924  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:35:12,391  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:35:14,123  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:35:15,158  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:38:08,489  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:38:10,012  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:38:10,898  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:39:03,117  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:39:04,865  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:39:05,872  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:40:21,732  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:40:23,494  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:40:24,613  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:42:43,051  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:42:44,879  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:42:45,875  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:44:12,067  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:44:13,845  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:44:14,784  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:47:05,767  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:47:07,413  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:47:08,271  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 17:50:24,986  INFO [main] LogReports:32 - URL opened
+2019-11-29 17:50:27,029  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 17:50:28,075  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 18:09:28,509  INFO [main] LogReports:32 - URL opened
+2019-11-29 18:09:30,327  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 18:09:31,354  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 18:09:31,355  INFO [main] LogReports:32 - Today is : 2019-11-29
+2019-11-29 18:09:31,356  INFO [main] LogReports:32 - after 10 days : 2019-12-09
+2019-11-29 18:09:31,670  INFO [main] LogReports:32 - Passed the checkin date as:2019-12-09
+2019-11-29 18:09:31,961  INFO [main] LogReports:32 - Checkin date is stored in excel
+2019-11-29 18:09:31,963  INFO [main] LogReports:32 - Checkout date is:2019-12-11
+2019-11-29 18:09:32,156  INFO [main] LogReports:32 - Checkout date is entered as:2019-12-11
+2019-11-29 18:09:32,777  INFO [main] LogReports:32 - Adults count is 4 and Child count is 2 now
+2019-11-29 18:10:56,701  INFO [main] LogReports:32 - URL opened
+2019-11-29 18:10:58,438  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 18:10:59,400  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 18:10:59,401  INFO [main] LogReports:32 - Today is : 2019-11-29
+2019-11-29 18:10:59,403  INFO [main] LogReports:32 - after 10 days : 2019-12-09
+2019-11-29 18:10:59,715  INFO [main] LogReports:32 - Passed the checkin date as:2019-12-09
+2019-11-29 18:11:00,053  INFO [main] LogReports:32 - Checkin date is stored in excel
+2019-11-29 18:11:00,054  INFO [main] LogReports:32 - Checkout date is:2019-12-11
+2019-11-29 18:11:00,536  INFO [main] LogReports:32 - Checkout date is entered as:2019-12-11
+2019-11-29 18:11:01,115  INFO [main] LogReports:32 - Adults count is 4 and Child count is 2 now
+2019-11-29 18:14:57,841  INFO [main] LogReports:32 - URL opened
+2019-11-29 18:14:59,636  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 18:18:07,797  INFO [main] LogReports:32 - URL opened
+2019-11-29 18:18:09,413  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 18:18:49,571  INFO [main] LogReports:32 - URL opened
+2019-11-29 18:18:51,319  INFO [main] LogReports:32 - Url is matched :https://www.phptravels.net/
+2019-11-29 18:18:52,188  INFO [main] LogReports:32 - City is entered as Bangalore in the destination
+2019-11-29 18:18:52,189  INFO [main] LogReports:32 - Today is : 2019-11-29
+2019-11-29 18:18:52,190  INFO [main] LogReports:32 - after 10 days : 2019-12-09
+2019-11-29 18:18:52,402  INFO [main] LogReports:32 - Passed the checkin date as:2019-12-09
+2019-11-29 18:18:52,647  INFO [main] LogReports:32 - Checkin date is stored in excel
+2019-11-29 18:18:52,652  INFO [main] LogReports:32 - Checkout date is:2019-12-11
+2019-11-29 18:18:52,855  INFO [main] LogReports:32 - Checkout date is entered as:2019-12-11
+2019-11-29 18:18:53,240  INFO [main] LogReports:32 - Adults count is 4 and Child count is 2 now

@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: com.org.test.testscripts.TestScript
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.506 s <<< FAILURE! - in com.org.test.testscripts.TestScript
+homePage(com.org.test.testscripts.TestScript)  Time elapsed: 11.594 s  <<< FAILURE!
+org.openqa.selenium.UnhandledAlertException: 
+Modal dialog present with text: Connection reset by peer
+Connection reset by peer
+: Connection reset by peer
+Connection reset by peer
+
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'ATMECSINLT-043', ip: '55.55.55.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:32240/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 321f49ae-0351-4e4f-9b17-c6546b087914
+*** Element info: {Using=css selector, value=div#cart }
+	at com.org.test.testscripts.TestScript.homePage(TestScript.java:100)
+
